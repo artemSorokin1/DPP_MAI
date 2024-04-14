@@ -1,0 +1,31 @@
+{
+	"BUILD_DIR" : "/Users/artemsorokin/Desktop/DPP_GIT/TIHIND/cmake-build-debug/DPP_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/artemsorokin/Desktop/DPP_GIT/TIHIND/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/artemsorokin/Desktop/DPP_GIT/TIHIND/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/artemsorokin/Desktop/DPP_GIT/TIHIND",
+	"CMAKE_SOURCE_DIR" : "/Users/artemsorokin/Desktop/DPP_GIT/TIHIND",
+	"INCLUDE_DIR" : "/Users/artemsorokin/Desktop/DPP_GIT/TIHIND/cmake-build-debug/DPP_autogen/include",
+	"INPUTS" : 
+	[
+		"/Users/artemsorokin/Desktop/DPP_GIT/TIHIND/UI/style.css",
+		"/Users/artemsorokin/Desktop/DPP_GIT/TIHIND/UI/resources/img/off.png",
+		"/Users/artemsorokin/Desktop/DPP_GIT/TIHIND/UI/resources/img/off_new.jpg",
+		"/Users/artemsorokin/Desktop/DPP_GIT/TIHIND/UI/resources/img/white_back.jpg",
+		"/Users/artemsorokin/Desktop/DPP_GIT/TIHIND/UI/resources/img/background.png",
+		"/Users/artemsorokin/Desktop/DPP_GIT/TIHIND/UI/resources/img/on_new.jpg",
+		"/Users/artemsorokin/Desktop/DPP_GIT/TIHIND/UI/resources/img/info_black.png",
+		"/Users/artemsorokin/Desktop/DPP_GIT/TIHIND/UI/resources/img/on.png",
+		"/Users/artemsorokin/Desktop/DPP_GIT/TIHIND/UI/resources/img/info.png",
+		"/Users/artemsorokin/Desktop/DPP_GIT/TIHIND/UI/resources/img/restart.png"
+	],
+	"LOCK_FILE" : "/Users/artemsorokin/Desktop/DPP_GIT/TIHIND/cmake-build-debug/CMakeFiles/DPP_autogen.dir/AutoRcc_resources_KRKR4BN5RM_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "KRKR4BN5RM",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/opt/homebrew/share/qt/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/artemsorokin/Desktop/DPP_GIT/TIHIND/cmake-build-debug/CMakeFiles/DPP_autogen.dir/AutoRcc_resources_KRKR4BN5RM_Used.txt",
+	"SOURCE" : "/Users/artemsorokin/Desktop/DPP_GIT/TIHIND/UI/resources.qrc",
+	"VERBOSITY" : 0
+}

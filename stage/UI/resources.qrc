@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/style">
+        <file>style.css</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>resources/img/background.png</file>
+        <file>resources/img/info.png</file>
+        <file>resources/img/info_black.png</file>
+        <file>resources/img/off.png</file>
+        <file>resources/img/on.png</file>
+        <file>resources/img/white_back.jpg</file>
+        <file>resources/img/on_new.jpg</file>
+        <file>resources/img/off_new.jpg</file>
+        <file>resources/img/restart.png</file>
+    </qresource>
+    <qresource prefix="/indicator"/>
+</RCC>
